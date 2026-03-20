@@ -1,4 +1,4 @@
-const BASE_URL = "https://join-user-default-rtdb.europe-west1.firebasedatabase.app/"
+const BASE_URL = "https://join-guast-account-default-rtdb.europe-west1.firebasedatabase.app/"
 const priorities = ['urgent', 'medium', 'low'];
 const priorityIcons = {
     urgent: '../assets/icons/urgent-summary.png',

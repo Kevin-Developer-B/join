@@ -1,4 +1,4 @@
-const BASE_URL = "https://join-user-default-rtdb.europe-west1.firebasedatabase.app/"
+const BASE_URL = "https://join-guast-account-default-rtdb.europe-west1.firebasedatabase.app/"
 let isPasswordVisible = false;
 let logoAnimation = sessionStorage.getItem("moveAnimation");
 const urlParams = new URLSearchParams(window.location.search);
