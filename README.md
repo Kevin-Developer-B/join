@@ -17,4 +17,4 @@ Join is a task manager inspired by the Kanban system. It allows users to create,
 - JavaScript
 
 ## ▶️ Live Demo
-[View the project]([https://kevin-breiter.de/](https://join.kevin-breiter.de/))
+[View the project](https://join.kevin-breiter.de/)
